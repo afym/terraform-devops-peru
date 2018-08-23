@@ -1,0 +1,8 @@
+region = "us-west-2"
+ami_id = "ami-6cd6f714"
+bucket_name = "modular-bucket-23123213"
+instance_type = "t2.nano"
+key_name = "general-key"
+role_name = "modular-role"
+policy_name = "modular-policy"
+profile_name = "modular-profile"

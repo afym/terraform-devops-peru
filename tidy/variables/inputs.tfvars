@@ -1,0 +1,8 @@
+region = "us-west-2"
+ami_id = "ami-6cd6f714"
+bucket_name = "tidy-app-9029012"
+instance_type = "t2.nano"
+key_name = "general-key"
+role_name = "tidy-role"
+policy_name = "tidy-policy"
+profile_name = "tidy-profile"
