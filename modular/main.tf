@@ -29,4 +29,5 @@ module "iam_application_profile" {
   profile_name  = "${var.profile_name}"
   policy_name   = "${var.policy_name}"
   role_name     = "${var.role_name}"
+  #bucket_name = "${var.bucket_name}"
 }

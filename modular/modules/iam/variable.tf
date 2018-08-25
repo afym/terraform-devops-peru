@@ -5,3 +5,5 @@ variable "profile_name" {}
 variable "role_name" {}
 
 variable "policy_name" {}
+
+#variable "bucket_name" {}
